@@ -1,4 +1,4 @@
-# code4470f96124f9bbc9317c7
+# WB
 
 ## About Scrimba
 
